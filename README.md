@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Features
+## 🌟 Features Implemented
 
 - **User Registration**: Allows new users to create an account.
 - **User Login**: Authenticates existing users securely using JWT.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 Technologies
 
 - **Frontend**: React, React Router, TailwindCSS
 - **Backend**: Node.js, Express (assumed for backend setup)
@@ -26,11 +26,11 @@
 
 ## 📂 Project Structure
 
-rbac-app/ ├── public/ # Public assets ├── src/ │ ├── components/ # Reusable components │ ├── pages/ # Register, Login, Dashboard pages │ ├── services/ # Axios API service │ ├── App.js # Main app component with routes │ ├── index.js # Entry point ├── tailwind.config.js # TailwindCSS configuration ├── package.json # Project metadata and dependencies └── README.md # Documentation
+ vrv-security-assignment/ ├── public/ # Public assets ├── src/ │ ├── components/ # Reusable components │ ├── pages/ # Register, Login, Dashboard pages │ ├── services/ # Axios API service │ ├── App.js # Main app component with routes │ ├── index.js # Entry point ├── tailwind.config.js # TailwindCSS configuration ├── package.json # Project metadata and dependencies └── README.md # Documentation
 
 
 
-## 🛠️ Installation
+## 🛠️ Step to  Install the Project
 
 
    ```
